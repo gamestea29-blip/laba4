@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    color: #222222;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #1565c0;
+    text-align: center;
+}
+
+h2 {
+    color: #333333;
+}
+
+section {
+    background-color: white;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 10px;
+}
+
+a {
+    color: #1565c0;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #e65100;
+}
+
+iframe {
+    max-width: 100%;
+    border: none;
+}
